@@ -1,5 +1,4 @@
 
-readme_content_2 = """
 # Python Programming Assignment - Condition Control
 
 This repository contains solutions to the **Condition Control** assignment from **Siliguri Institute of Technology (MCA-336)** for the **Python Programming (MCAN191)** course, given by **Dr. Tumpa Banerjee**. The objective of this assignment is to enhance understanding of `if-else` statements and decision control structures in Python through hands-on practice.
