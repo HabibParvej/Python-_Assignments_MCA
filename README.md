@@ -1,5 +1,4 @@
 
-main_readme_content = """
 # Python Programming Assignments Repository
 
 This repository contains solutions to all assignments for the **Python Programming (MCAN191)** course at **Siliguri Institute of Technology**, under the guidance of **Dr. Tumpa Banerjee**. Each assignment explores different programming concepts in Python, from basic operations to more advanced condition controls and logic.
