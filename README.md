@@ -1,7 +1,7 @@
 
 # Python Programming Assignments Repository
 
-This repository contains solutions to all assignments for the **Python Programming (MCA)** course at **Siliguri Institute of Technology**, under the guidance of **Dr. Tumpa Banerjee**. Each assignment explores different programming concepts in Python, from basic operations to more advanced condition controls and logic.
+This repository contains solutions to all assignments for the **Python Programming (MCA)** course at **Siliguri Institute of Technology**, under the guidance of **Dr. Tumpa Banerjee and Mrinal Das**. Each assignment explores different programming concepts in Python, from basic operations to more advanced condition controls and logic.
 
 ## Repository Overview
 
