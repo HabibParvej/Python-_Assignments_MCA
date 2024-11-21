@@ -1,7 +1,7 @@
 
 # Python Programming Assignment - Input, Output, and Basic Operations
 
-This repository contains solutions to the assignment from **Siliguri Institute of Technology (MCA-336)** for the **Python Programming (MCAN191)** course, given by **Dr. Tumpa Banerjee**. The objective of this assignment is to understand Python syntax, input/output operations, and basic arithmetic functions.
+This repository contains solutions to the assignment from **Siliguri Institute of Technology (MCA-336)** for the **Python Programming (MCAN191)** course, given by **Dr. Tumpa Banerjee** **Mrinal Das**. The objective of this assignment is to understand Python syntax, input/output operations, and basic arithmetic functions.
 
 ## Assignment Overview
 
