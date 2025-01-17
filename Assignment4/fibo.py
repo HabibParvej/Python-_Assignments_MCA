@@ -1,17 +1,16 @@
-def fibo(ran):
-    t1=0
-    t2=1
-    t3=0
-    sum=t1+t2
-    print(t1,"",t2,"",end='')
-    for i in range (2,ran,1):
-        t1=t2
-        t2=t3
-        t3=t1+t2
-        print(t3," ",end='')
-        sum+=t3
-    return sum
-       
-print("Enter the range to calculate fibonacci series sum: ",end='')
-ran=int(input())
-print("\nThe sum of fibonacci series is: ",fibo(ran))
+# Get the number of terms in the Fibonacci series
+n = int(input("Enter the number of terms: "))
+
+# Initialize the first two terms
+a = 0
+b = 1
+sum_fib = 0
+
+# Calculate the sum of Fibonacci series using for loop
+for i in range(n):
+    sum_fib += a
+    a = b
+    b = a + b
+
+# Output the sum
+print(f"The sum of the Fibonacci series is: {sum_fib}")
